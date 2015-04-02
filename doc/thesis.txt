@@ -1,5 +1,6 @@
 # Thesis
-By: Dan
+By: Daniel Y. Chen
+Title: How cold is 0?
 
 0K is really cold.
 
